@@ -3,8 +3,10 @@
 Tech Stacks
 
 Mediapipe
+
 Unity
 
+MediaPipeUnityPlugin // https://github.com/homuler/MediaPipeUnityPlugin
 
 -------------------------------
 졸업논문으로서 이미지처리 AI인 Mediapipe를 이용하여 아바타 제어에 관한 프로그램 작성
